@@ -2,7 +2,7 @@
 <h3 align="center">Frontend & Mobile Developer from Kazakhstan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevZair&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Dev-Zair&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
@@ -45,27 +45,24 @@
 
 ---
 
-### 🐍 Snake Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevZair/DevZair/output/snake.svg" />
-</p>
+### 🐍 Snake Activity  
+<img src="https://profile-readme-generator.com/assets/snake.svg" width="100%" />
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZair&theme=tokyonight&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Zair&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevZair&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Zair&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
 
 ## 👁️ Number of visits
 <p align="center">
-   <img src="https://profile-counter.glitch.me/DevZair/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{Dev-Zair}/count.svg"/>
 </p>
