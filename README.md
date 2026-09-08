@@ -45,50 +45,25 @@ motto:     "Clean code. Modern UI. Fast delivery."
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <a href="https://github.com/DevZair/DoItly_app">
-        <img src="https://raw.githubusercontent.com/DevZair/myPortfolio/main/public/doitly.png" width="100%" alt="DoItly" />
-      </a>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/DevZair/Safa.app">
-        <img src="https://raw.githubusercontent.com/DevZair/myPortfolio/main/public/safa.png" width="100%" alt="Safa" />
-      </a>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://github.com/DevZair/SSS-ChatApp">
-        <img src="https://raw.githubusercontent.com/DevZair/SSS-ChatApp/main/docs/screenshots/IMG_1598.PNG" width="100%" alt="SSS Chat" />
-      </a>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://devzair.netlify.app">
-        <img src="https://raw.githubusercontent.com/DevZair/myPortfolio/main/public/ssstream.png" width="100%" alt="SSStream" />
-      </a>
-    </td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/DevZair/DevZair/main/assets/cards/pill-tracker.jpg" alt="Pill Tracker — medication reminders and iOS widget" width="100%" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/DevZair/DevZair/main/assets/cards/ramix.jpg" alt="Ramix — windows and doors configurator" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center"><b><a href="https://github.com/DevZair/DoItly_app">DoItly</a></b></td>
-    <td align="center"><b><a href="https://github.com/DevZair/Safa.app">Safa</a></b></td>
-    <td align="center"><b><a href="https://github.com/DevZair/SSS-ChatApp">SSS Chat</a></b></td>
-    <td align="center"><b><a href="https://devzair.netlify.app">SSStream</a></b></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/DevZair/DevZair/main/assets/cards/energosoft.jpg" alt="Energosoft — field sales and ERP" width="100%" /></td>
+    <td width="50%"><a href="https://github.com/DevZair/DoItly_app"><img src="https://raw.githubusercontent.com/DevZair/DevZair/main/assets/cards/doitly.jpg" alt="DoItly — gamified task manager" width="100%" /></a></td>
   </tr>
   <tr>
-    <td align="center"><sub>Gamified task manager<br />XP, deadlines, assignees</sub></td>
-    <td align="center"><sub>Charity &amp; sadaqa platform<br />Kazakh-language, foundations</sub></td>
-    <td align="center"><sub>Messenger with video calls<br />Firebase · Agora · BLoC</sub></td>
-    <td align="center"><sub>Staff &amp; payments management<br />Shifts, payroll, reports</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
+    <td width="50%"><a href="https://github.com/DevZair/Safa.app"><img src="https://raw.githubusercontent.com/DevZair/DevZair/main/assets/cards/safa.jpg" alt="Safa — charity and sadaqa platform" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/DevZair/SSS-ChatApp"><img src="https://raw.githubusercontent.com/DevZair/DevZair/main/assets/cards/sss-chat.jpg" alt="SSS Chat — messenger with video calls" width="100%" /></a></td>
   </tr>
 </table>
 
+<p align="center">
+  <sub>Cards marked <b>private repo</b> are commercial work — source stays closed, but I am happy to walk through the code and architecture on request.</sub>
+</p>
+
 <br />
 
-<!-- ══════════════════ TECH STACK ══════════════════ -->
 ## 🛠️ Tech Stack
 
 <table>
@@ -167,10 +142,6 @@ motto:     "Clean code. Modern UI. Fast delivery."
   <a href="https://github.com/DevZair/myPortfolio">
     <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevZair&repo=myPortfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
   </a>
-</p>
-
-<p align="center">
-  <sub>🔒 Commercial projects — billiard-club ERP, medication tracker, restaurant suite, sport-training platform — live in private repositories. Happy to walk you through them on request.</sub>
 </p>
 
 <p align="center">
