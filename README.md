@@ -1,10 +1,6 @@
 <!-- ══════════════════ HEADER ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Zair%20Shukhratov&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Mobile%20%26%20Full-Stack%20Developer%20%C2%B7%20Astana,%20Kazakhstan&descAlignY=56&descSize=18" alt="Zair Shukhratov" />
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDAE&center=true&vCenter=true&width=520&lines=Flutter+Mobile+Developer;Clean+code.+Modern+UI.+Fast+delivery.;Django+%C2%B7+FastAPI+%C2%B7+Node.js+backends;Building+apps+that+ship." alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://raw.githubusercontent.com/DevZair/DevZair/main/assets/banner.jpg" alt="Zair Shukhratov — Flutter Mobile &amp; Full-Stack Developer, Astana Kazakhstan" />
 </p>
 
 <p align="center">
@@ -226,5 +222,3 @@ motto:     "Clean code. Modern UI. Fast delivery."
 </p>
 
 <p align="center"><i>⭐ If any of my projects help you, a star means a lot!</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
