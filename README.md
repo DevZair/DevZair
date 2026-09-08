@@ -24,6 +24,8 @@
 <!-- ══════════════════ ABOUT ══════════════════ -->
 ## 👨‍💻 About me
 
+<img align="right" width="230" src="https://avatars.githubusercontent.com/u/119114921?v=4" alt="Zair Shukhratov" />
+
 ```yaml
 name:      Zair Shukhratov
 role:      Mobile & Full-Stack Developer
@@ -34,11 +36,59 @@ next:      Blockchain / Web3 development
 motto:     "Clean code. Modern UI. Fast delivery."
 ```
 
-- 📱 I build **cross-platform mobile apps** with Flutter — from design system to App Store release
+- 📱 I build **cross-platform mobile apps** with Flutter — from design system to store release
 - 🔌 I write the **backends** they talk to: Django REST, FastAPI, Node.js + PostgreSQL
 - 🤖 I automate business workflows with **Telegram bots**
-- 🎯 Currently deepening **Django REST Framework** and heading toward **blockchain development**
-- 💬 Open to freelance work and collaboration — reach me on [WhatsApp](https://wa.me/77756270762) or [email](mailto:zairhan2111@gmail.com)
+- 🎯 Currently deepening **Django REST Framework**, heading toward **blockchain development**
+- 💬 Open to freelance work — [WhatsApp](https://wa.me/77756270762) · [Email](mailto:zairhan2111@gmail.com)
+
+<br clear="right" />
+
+<!-- ══════════════════ SHOWCASE ══════════════════ -->
+## 📱 App Showcase
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/DevZair/DoItly_app">
+        <img src="https://raw.githubusercontent.com/DevZair/myPortfolio/main/public/doitly.png" width="100%" alt="DoItly" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/DevZair/Safa.app">
+        <img src="https://raw.githubusercontent.com/DevZair/myPortfolio/main/public/safa.png" width="100%" alt="Safa" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/DevZair/SSS-ChatApp">
+        <img src="https://raw.githubusercontent.com/DevZair/SSS-ChatApp/main/docs/screenshots/IMG_1598.PNG" width="100%" alt="SSS Chat" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://devzair.netlify.app">
+        <img src="https://raw.githubusercontent.com/DevZair/myPortfolio/main/public/ssstream.png" width="100%" alt="SSStream" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b><a href="https://github.com/DevZair/DoItly_app">DoItly</a></b></td>
+    <td align="center"><b><a href="https://github.com/DevZair/Safa.app">Safa</a></b></td>
+    <td align="center"><b><a href="https://github.com/DevZair/SSS-ChatApp">SSS Chat</a></b></td>
+    <td align="center"><b><a href="https://devzair.netlify.app">SSStream</a></b></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Gamified task manager<br />XP, deadlines, assignees</sub></td>
+    <td align="center"><sub>Charity &amp; sadaqa platform<br />Kazakh-language, foundations</sub></td>
+    <td align="center"><sub>Messenger with video calls<br />Firebase · Agora · BLoC</sub></td>
+    <td align="center"><sub>Staff &amp; payments management<br />Shifts, payroll, reports</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
+  </tr>
+</table>
 
 <br />
 
@@ -103,72 +153,29 @@ motto:     "Clean code. Modern UI. Fast delivery."
 
 <br />
 
-<!-- ══════════════════ PROJECTS ══════════════════ -->
-## 🚀 Featured Projects
+<!-- ══════════════════ REPOS ══════════════════ -->
+## 📦 Open Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💊 Pill Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/DevZair/pill_tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=pill_tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </p>
-      <p align="center">
-        Medication reminder app for iOS — schedules, dose tracking and notifications.
-        <br /><br />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎱 Meros Billiards</h3>
-      <p align="center">
-        <a href="https://github.com/DevZair/bilyardo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=bilyardo&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </p>
-      <p align="center">
-        Club management system — tables, bar, memberships, stock and reporting. Monorepo.
-        <br /><br />
-        <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏋️ SportFlow</h3>
-      <p align="center">
-        <a href="https://github.com/DevZair/sportFlow-backend">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=sportFlow-backend&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </p>
-      <p align="center">
-        Training-management platform with JWT auth, role-based access and attendance journal.
-        <br /><br />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍔 MenuPro</h3>
-      <p align="center">
-        <a href="https://github.com/DevZair/menuPro_admin_mobile">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=menuPro_admin_mobile&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </p>
-      <p align="center">
-        Restaurant menu suite — admin panel + client app, ready for a FastAPI backend.
-        <br /><br />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/DevZair/SSS-ChatApp">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=SSS-ChatApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+  </a>
+  <a href="https://github.com/DevZair/Safa.app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=Safa.app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/DevZair/DoItly_app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=DoItly_app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+  </a>
+  <a href="https://github.com/DevZair/myPortfolio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=myPortfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>🔒 Commercial projects — billiard-club ERP, medication tracker, restaurant suite, sport-training platform — live in private repositories. Happy to walk you through them on request.</sub>
+</p>
 
 <p align="center">
   <a href="https://github.com/DevZair?tab=repositories"><img src="https://img.shields.io/badge/See_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
