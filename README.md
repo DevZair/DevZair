@@ -158,18 +158,18 @@ motto:     "Clean code. Modern UI. Fast delivery."
 
 <p align="center">
   <a href="https://github.com/DevZair/SSS-ChatApp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=SSS-ChatApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevZair&repo=SSS-ChatApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
   </a>
   <a href="https://github.com/DevZair/Safa.app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=Safa.app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevZair&repo=Safa.app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/DevZair/DoItly_app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=DoItly_app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevZair&repo=DoItly_app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
   </a>
   <a href="https://github.com/DevZair/myPortfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevZair&repo=myPortfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=DevZair&repo=myPortfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE" />
   </a>
 </p>
 
@@ -187,8 +187,8 @@ motto:     "Clean code. Modern UI. Fast delivery."
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevZair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&langs_count=8" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevZair&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevZair&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -196,11 +196,7 @@ motto:     "Clean code. Modern UI. Fast delivery."
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevZair&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDAE&line=38BDAE&point=FFFFFF&area=true" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevZair&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=DevZair&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 </p>
 
 <br />
